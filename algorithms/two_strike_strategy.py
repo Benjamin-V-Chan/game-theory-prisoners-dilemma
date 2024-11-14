@@ -1,0 +1,1 @@
+# strategy always splits. If opponent steals twice in a row, strategy will always steal
